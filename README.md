@@ -1,5 +1,5 @@
 # Calculadora React Native
-
+ 
 Uma calculadora simples e funcional construída com React Native. Este projeto implementa uma calculadora básica com operações aritméticas padrão e uma interface limpa e intuitiva.
 
 ## 📱 Funcionalidades
